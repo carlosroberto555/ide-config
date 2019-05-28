@@ -1,0 +1,46 @@
+{
+	"terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+	"php.validate.executablePath": "C:\\xampp\\php\\php.exe",
+	"git.autofetch": true,
+	"editor.formatOnSave": true,
+	"prettier.useTabs": true,
+	"prettier.semi": false,
+	"prettier.singleQuote": true,
+	"prettier.tabWidth": 2,
+	"prettier.endOfLine": "lf",
+	"[javascriptreact]": {
+		"files.trimTrailingWhitespace": true,
+		"editor.detectIndentation": false,
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	// "javascript.validate.enable": false,
+	"files.associations": {
+		"*.js": "javascriptreact"
+	},
+	"editor.tabSize": 2,
+	"editor.fontSize": 16,
+	"editor.insertSpaces": false,
+	"files.eol": "\n",
+	"editor.suggestSelection": "first",
+	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+	// "flow.pathToFlow": "C:\\Users\\carlos\\AppData\\Local\\Yarn\\bin\\flow",
+	"[typescript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[json]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[typescriptreact]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[jsonc]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"todo-tree.excludeGlobs": ["*/node_modules/*"],
+	"editor.codeActionsOnSave": {
+		"source.fixAll.tslint": true
+	}
+}
